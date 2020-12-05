@@ -1,6 +1,7 @@
 # Prepare
 
   !pip install selenium
+  
   And need to download chromedriver.exe  (https://chromedriver.chromium.org/downloads)
   !pip install Pillow
   !pip install opencv-python
