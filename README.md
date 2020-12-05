@@ -6,6 +6,8 @@
 #Adam theory:Trend trading
 
 #Double Reflection: 
+
+![image](https://github.com/thumb168888/-Adam-double-reflection/blob/main/double%20reflection.png)
 #To know more about how trend will likely happen  
 
 ![image](https://github.com/thumb168888/-Adam-double-reflection/blob/main/messageImage_1607162624090.jpg)
