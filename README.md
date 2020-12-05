@@ -7,7 +7,9 @@
   !pip install opencv-python
 # Adam theroy: Trend Trading
 #To know more about how the trend is most likely to happen 
-# Double Reflection
+# Double Reflection 
+Point A、D、B is past data
+And  Point E、C may happen in the future!
 
 ![image](https://github.com/thumb168888/-Adam-double-reflection/blob/main/double%20reflection.png)
 ![image](https://github.com/thumb168888/-Adam-double-reflection/blob/main/messageImage_1607162624090.jpg)
