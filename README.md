@@ -15,3 +15,7 @@ And  Point E、C may happen in the future!
 ![image](https://github.com/thumb168888/-Adam-double-reflection/blob/main/messageImage_1607162624090.jpg)
 ![image](https://github.com/thumb168888/-Adam-double-reflection/blob/main/messageImage_1607162662692.jpg)
 ![image](https://github.com/thumb168888/-Adam-double-reflection/blob/main/messageImage_1607162696344.jpg)
+
+
+# Python Code
+https://github.com/thumb168888/-Adam-double-reflection/blob/main/adam_double_reflection.py
