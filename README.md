@@ -3,10 +3,10 @@
 #to help us make plan about stock or futures.
   
 
-#Adam theory 
-![image](https://github.com/thumb168888/-Adam-double-reflection/blob/main/adamtheory.jpg)
+#Adam theory:Trend trading
+
 #Double Reflection: 
-#To know more about how trend will likely happen 
+#To know more about how trend will likely happen  
 
 ![image](https://github.com/thumb168888/-Adam-double-reflection/blob/main/messageImage_1607162624090.jpg)
 ![image](https://github.com/thumb168888/-Adam-double-reflection/blob/main/messageImage_1607162662692.jpg)
