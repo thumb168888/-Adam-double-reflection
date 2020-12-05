@@ -8,7 +8,7 @@
 # Adam theroy: Trend Trading
 #To know more about how the trend is most likely to happen 
 # Double Reflection 
-Point A、D、B is past data
+Point A、D is past data,Point B is now.
 And  Point E、C may happen in the future!
 
 ![image](https://github.com/thumb168888/-Adam-double-reflection/blob/main/double%20reflection.png)
